@@ -5,6 +5,7 @@ var
   IPK : Real;
 
 begin
+  clrscr;
   writeln('==========CURICULUM VOTE==========');
   write('Nama : '); readln(nama);
   write('Tempat / Tanggal Lahir : '); readln(ttl);
